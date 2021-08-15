@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AsrorbekQ
-- 👀 I’m interested in Politics and Maths.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on ML.
+- 👋 Hi, I’m Asrorbek Qalandarov.
+- 🇺🇿 I’m interested in Politics and Maths.
+- 🐹 I’m currently learning Golang.
+- 👀 I’m looking to collaborate on ML.
 - 📫 How to reach me @asrorbek1314(instagram.com).
 
 <!---
