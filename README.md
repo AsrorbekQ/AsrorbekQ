@@ -4,9 +4,9 @@
 
 
 - 👋 Hi, I’m Asrorbek Qalandarov.
-- 🇺🇿 I’m interested in Politics and Maths.
-- 👀 I’m looking to collaborate on ML.
-- 📫 How to reach me @asrorbek1314(instagram.com).
+- 🇺🇿 I study at Presidential school in Khiva.
+- 👀 I’m looking to collaborate on Golang.
+- 📫 How to reach me @asrorbek1314(instagram) or @Asrorbek_13(telegram).
 
 Skills:
 - Python
@@ -17,6 +17,7 @@ Skills:
 - CSS
 - Figma
 - Adobe Illustrator
+- Adobe Photoshop
 - Adobe Photoshop
 
 <!---
