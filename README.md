@@ -18,7 +18,6 @@ Skills:
 - Figma
 - Adobe Illustrator
 - Adobe Photoshop
-- Adobe Photoshop
 
 <!---
 AsrorbekQ/AsrorbekQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
